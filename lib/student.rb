@@ -5,4 +5,6 @@ class Student < User
     @last_name = "Jobs"
   end
 
+def new
+  
 end
